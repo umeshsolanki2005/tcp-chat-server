@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a production-style multi-client TCP chat server and terminal client in C using Linux sockets, POSIX threads, mutexes, and file-based authentication. It demonstrates modular C design, network programming, multithreading, logging, validation, and graceful resource cleanup....
-..
+...
 ## Features
 - Multi-client TCP chat server
 - User registration and login
